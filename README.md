@@ -1,3 +1,4 @@
 # top-youtube-channel-subscribers
-this is data analysis.
-i have analys it to come up with good vizualization
+i did my research to come with the best youtube channels with subcribers in the world.
+i have analys it to come up with good vizualization.
+feel free to contact me incase of any question.
